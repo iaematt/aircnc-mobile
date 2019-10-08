@@ -6,7 +6,8 @@
 ## Instalação
 1. Baixe ou clone o repositório
 2. Rode o comando: npm install
-3. Acesse a pasta e rode o comando: [react-native run-android] ou [react-native run-ios]
+3. Acessar (src/services/api.js) e alterar a URL da API.
+4. Acesse a pasta e rode o comando: [react-native run-android] ou [react-native run-ios]
 
 ## Meta
 Matheus Bastos – [@Instagram](https://instagram.com/iaematt_) – matheusbastos@outlook.com
